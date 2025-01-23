@@ -1,0 +1,91 @@
+2025-01-23 15:46:49,954 INFO Motadata Message Queue Application is Start
+2025-01-23 15:47:30,453 INFO Producer Type Exit Command both thread is stoped
+2025-01-23 15:47:30,453 INFO Consumer: Received exit signal. Shutting down.
+2025-01-23 15:50:25,630 INFO Motadata Message Queue Application is Start
+2025-01-23 15:50:27,580 INFO Producer Message = sjdhskd
+2025-01-23 15:50:27,585 INFO Consume Message = sjdhskd
+2025-01-23 15:50:28,337 INFO Producer Message = dnskdjad
+2025-01-23 15:50:28,338 INFO Consume Message = dnskdjad
+2025-01-23 15:50:29,011 INFO Producer Message = sdaks
+2025-01-23 15:50:29,012 INFO Consume Message = sdaks
+2025-01-23 15:50:29,749 INFO Producer Message = snalksja;s
+2025-01-23 15:50:29,749 INFO Consume Message = snalksja;s
+2025-01-23 15:50:30,388 INFO Producer Message = klasa;s
+2025-01-23 15:50:30,388 INFO Consume Message = klasa;s
+2025-01-23 15:50:31,007 INFO Producer Message = laks;as
+2025-01-23 15:50:31,007 INFO Consume Message = laks;as
+2025-01-23 15:50:31,653 INFO Producer Message = alks;as
+2025-01-23 15:50:31,654 INFO Consume Message = alks;as
+2025-01-23 16:07:08,076 INFO Motadata Message Queue Application is Start
+2025-01-23 16:07:08,085 INFO ============================= MESSAGE-METRICS ====================================
+2025-01-23 16:07:08,086 INFO Total Successful Messages: 0
+2025-01-23 16:07:08,088 INFO Total Errors: 0
+2025-01-23 16:07:24,333 INFO Producer Message = hooo
+2025-01-23 16:07:24,333 INFO Consume Message = hooo
+2025-01-23 16:07:25,490 INFO Producer Message = kjkjd
+2025-01-23 16:07:25,491 INFO Consume Message = kjkjd
+2025-01-23 16:07:26,373 INFO Producer Message = msals;
+2025-01-23 16:07:26,373 INFO Consume Message = msals;
+2025-01-23 16:07:26,466 INFO Producer Message = 
+2025-01-23 16:07:26,879 INFO Consume Message = 
+2025-01-23 16:07:27,146 INFO Producer Message = asa;s
+2025-01-23 16:07:27,380 INFO Consume Message = asa;s
+2025-01-23 16:07:27,782 INFO Producer Message = alks;as
+2025-01-23 16:07:27,881 INFO Consume Message = alks;as
+2025-01-23 16:07:28,455 INFO Producer Message = lkas
+2025-01-23 16:07:28,455 INFO Consume Message = lkas
+2025-01-23 16:07:29,094 INFO Producer Message = lnals
+2025-01-23 16:07:29,094 INFO Consume Message = lnals
+2025-01-23 16:07:29,705 INFO Producer Message = lkansa;ks
+2025-01-23 16:07:29,705 INFO Consume Message = lkansa;ks
+2025-01-23 16:07:30,141 INFO Producer Message = alks
+2025-01-23 16:07:30,207 INFO Consume Message = alks
+2025-01-23 16:07:30,973 INFO Producer Message = slasa's;ska
+2025-01-23 16:07:30,973 INFO Consume Message = slasa's;ska
+2025-01-23 16:07:31,753 INFO Producer Message = sa;sa'sa;jsa
+2025-01-23 16:07:31,753 INFO Consume Message = sa;sa'sa;jsa
+2025-01-23 16:07:32,297 INFO Producer Message = ajsa's
+2025-01-23 16:07:32,298 INFO Consume Message = ajsa's
+2025-01-23 16:07:32,734 INFO Producer Message = aslsja
+2025-01-23 16:07:32,805 INFO Consume Message = aslsja
+2025-01-23 16:07:33,800 INFO Producer Message = sak'ssa;s'a
+2025-01-23 16:07:33,800 INFO Consume Message = sak'ssa;s'a
+2025-01-23 16:07:34,547 INFO Producer Message = lns;ajs
+2025-01-23 16:07:34,548 INFO Consume Message = lns;ajs
+2025-01-23 16:07:39,347 INFO Producer Message = nslaksa
+2025-01-23 16:07:39,347 INFO Consume Message = nslaksa
+2025-01-23 16:07:40,102 INFO Producer Message = sa;s
+2025-01-23 16:07:40,102 INFO Consume Message = sa;s
+2025-01-23 16:07:40,812 INFO Producer Message = nskas
+2025-01-23 16:07:40,812 INFO Consume Message = nskas
+2025-01-23 16:07:41,528 INFO Producer Message = lasna;s
+2025-01-23 16:07:41,528 INFO Consume Message = lasna;s
+2025-01-23 16:07:42,276 INFO Producer Message = as;as
+2025-01-23 16:07:42,277 INFO Consume Message = as;as
+2025-01-23 16:07:43,027 INFO Producer Message = nlanskas
+2025-01-23 16:07:43,027 INFO Consume Message = nlanskas
+2025-01-23 16:07:43,726 INFO Producer Message = lkjasj;as
+2025-01-23 16:07:43,726 INFO Consume Message = lkjasj;as
+2025-01-23 16:07:44,437 INFO Producer Message = lkas;as
+2025-01-23 16:07:44,437 INFO Consume Message = lkas;as
+2025-01-23 16:07:45,069 INFO Producer Message = klajs;as
+2025-01-23 16:07:45,069 INFO Consume Message = klajs;as
+2025-01-23 16:07:46,070 INFO Producer Message = lkjsas
+2025-01-23 16:07:46,070 INFO Consume Message = lkjsas
+2025-01-23 16:07:46,804 INFO Producer Message = ln;klsa
+2025-01-23 16:07:46,804 INFO Consume Message = ln;klsa
+2025-01-23 16:07:47,525 INFO Producer Message = lkja;sas
+2025-01-23 16:07:47,525 INFO Consume Message = lkja;sas
+2025-01-23 16:07:48,185 INFO Producer Message = j;asa
+2025-01-23 16:07:48,185 INFO Consume Message = j;asa
+2025-01-23 16:07:48,861 INFO Producer Message = j;as
+2025-01-23 16:07:48,862 INFO Consume Message = j;as
+2025-01-23 16:08:08,088 INFO ============================= MESSAGE-METRICS ====================================
+2025-01-23 16:08:08,088 INFO Total Successful Messages: 30
+2025-01-23 16:08:08,088 INFO Total Errors: 0
+2025-01-23 16:09:08,089 INFO ============================= MESSAGE-METRICS ====================================
+2025-01-23 16:09:08,089 INFO Total Successful Messages: 30
+2025-01-23 16:09:08,089 INFO Total Errors: 0
+2025-01-23 16:10:08,095 INFO ============================= MESSAGE-METRICS ====================================
+2025-01-23 16:10:08,096 INFO Total Successful Messages: 30
+2025-01-23 16:10:08,096 INFO Total Errors: 0
